@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Caleb Pucylowski
 
-<!--
-**CalebPuc/CalebPuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Duke University student double majoring in Electrical & Computer Engineering and Computer Science (Class of 2028), with a concentration in AI & Machine Learning. I like building things that sit where software meets hardware: flight displays, robots, game engines, and quantum circuits.
 
-Here are some ideas to get you started:
+Looking for a Summer 2027 engineering internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website · LinkedIn · Resume
+
+Experience
+NASA Langley Research Center (Summer 2026): built a C++ / OpenSceneGraph "Highway in the Sky" 3D flight-guidance display for an urban air mobility simulation, finished two weeks ahead of schedule
+Amazon, Private Brands (Summer 2025): built a real-time escalation service for an AI shopping assistant on AWS (Lambda, API Gateway, DynamoDB) that cut expert review time by 83%
+Quantum research: Duke Quantum Center and the Deffner Lab at UMBC
+What I'm working on now
+Autonomous patrol robot: ROS 2 and Python with a modified Kinova arm
+Vengeful Glory: a 2D dungeon crawler in Unity / C# with a team of three
+PICO-8 games: small 2D games written in Lua
+Things I've built
+Bazaar: a multiplayer game engine in Java with a rules engine, referee, and AI players, backed by 226 unit tests
+Operating systems and computer architecture: kernel features for xv6 on RISC-V, a heap allocator, and a 16-bit CPU designed from logic gates
+This website: calebpucylowski.com, hand-built in HTML, CSS, and JavaScript (source)
+Tools I use
+
+C++ · C · Python · Java · C# · TypeScript · Lua · AWS · ROS 2 · Unity · Linux · Git
